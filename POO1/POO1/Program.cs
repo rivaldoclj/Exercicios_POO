@@ -29,7 +29,6 @@ namespace POO1 {
 
             Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
-            Console.WriteLine(p);
 
             if (areaX > areaY) {
                 Console.WriteLine("Maior área: X");
@@ -41,3 +40,4 @@ namespace POO1 {
     }
 
 }
+
