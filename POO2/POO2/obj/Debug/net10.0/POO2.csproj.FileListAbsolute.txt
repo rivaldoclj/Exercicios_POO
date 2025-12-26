@@ -1,0 +1,14 @@
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\bin\Debug\net10.0\POO2.exe
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\bin\Debug\net10.0\POO2.deps.json
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\bin\Debug\net10.0\POO2.runtimeconfig.json
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\bin\Debug\net10.0\POO2.dll
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\bin\Debug\net10.0\POO2.pdb
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\obj\Debug\net10.0\POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\obj\Debug\net10.0\POO2.AssemblyInfoInputs.cache
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\obj\Debug\net10.0\POO2.AssemblyInfo.cs
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\obj\Debug\net10.0\POO2.csproj.CoreCompileInputs.cache
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\obj\Debug\net10.0\POO2.dll
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\obj\Debug\net10.0\refint\POO2.dll
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\obj\Debug\net10.0\POO2.pdb
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\obj\Debug\net10.0\POO2.genruntimeconfig.cache
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO2\POO2\obj\Debug\net10.0\ref\POO2.dll
