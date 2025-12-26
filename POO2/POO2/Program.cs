@@ -1,33 +1,32 @@
-﻿using System;
+using System;
 
 namespace POO2 {
     class Program {
         static void Main(string[] args) {
-            Pessoa a, b;
 
-            a = new Pessoa();
-            b = new Pessoa();
+            Pessoa p1 = new Pessoa();
+            Pessoa p2 = new Pessoa();
 
             Console.WriteLine("Dados da primeira pessoa: ");
             Console.Write("Nome: ");
-            a.nome = Console.ReadLine();
+            p1.nome = Console.ReadLine();
             Console.Write("Idade: ");
-            a.idade = int.Parse(Console.ReadLine());
+            p1.idade = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Dados da segunda pessoa: ");
             Console.Write("Nome: ");
-            b.nome = Console.ReadLine();
+            p2.nome = Console.ReadLine();
             Console.Write("Idade: ");
-            b.idade = int.Parse(Console.ReadLine());
+            p2.idade = int.Parse(Console.ReadLine());
 
-            if (a.idade > b.idade) {
-                Console.WriteLine("Pessoa mais velha: " + a.nome);
+            if (p1.idade > p2.idade) {
+                Console.WriteLine("Pessoa mais velha: " + p1.nome);
             }
-            else if (a.idade == b.idade) {
-                Console.WriteLine("As duas pessoas possuem a mesma idade!");
+            else if (p1.idade == p2.idade) {
+                Console.WriteLine($"{p1.nome} e {p2.nome} possuem a mesma idade!");
             }
             else {
-                Console.WriteLine("Pessoa mais velha: " + b.nome);
+                Console.WriteLine("Pessoa mais velha: " + p2.nome);
             }
         }
     }
