@@ -2,8 +2,7 @@
 using System.Globalization;
 
 namespace POO1 {
-
-    // EXERCICIO SEM POGRAMAÇÃO ORIENTADA A OBJETO
+    
     class Program {
         static void Main(string[] args) {
 
@@ -40,4 +39,5 @@ namespace POO1 {
             }
         }
     }
+
 }
