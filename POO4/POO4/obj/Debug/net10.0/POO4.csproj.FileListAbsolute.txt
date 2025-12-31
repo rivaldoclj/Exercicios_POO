@@ -1,0 +1,14 @@
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\obj\Debug\net10.0\POO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\obj\Debug\net10.0\POO4.AssemblyInfoInputs.cache
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\obj\Debug\net10.0\POO4.AssemblyInfo.cs
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\obj\Debug\net10.0\POO4.csproj.CoreCompileInputs.cache
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\bin\Debug\net10.0\POO4.exe
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\bin\Debug\net10.0\POO4.deps.json
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\bin\Debug\net10.0\POO4.runtimeconfig.json
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\bin\Debug\net10.0\POO4.dll
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\bin\Debug\net10.0\POO4.pdb
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\obj\Debug\net10.0\POO4.dll
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\obj\Debug\net10.0\refint\POO4.dll
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\obj\Debug\net10.0\POO4.pdb
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\obj\Debug\net10.0\POO4.genruntimeconfig.cache
+C:\Users\rival\OneDrive\Área de Trabalho\C# - CURSO\POO4\POO4\obj\Debug\net10.0\ref\POO4.dll
